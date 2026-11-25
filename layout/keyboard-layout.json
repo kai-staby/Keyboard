@@ -1,138 +1,138 @@
 [
+  {
+    "switchMount": "cherry",
+    "pcb": true
+  },
   [
-    "Esc",
-    "F1",
-    "F2",
-    "F3",
-    "F4",
-    "F5",
-    "F6",
-    "F7",
-    "F8",
-    "F9",
-    "F10",
-    "F11",
-    "F12",
-    "PrtSc",
-    "Insert",
-    "Delete"
+    "0,0\n\n\n\n\n\nEsc",
+    "0,1\n\n\n\n\n\nF1",
+    "0,2\n\n\n\n\n\nF2",
+    "0,3\n\n\n\n\n\nF3",
+    "0,4\n\n\n\n\n\nF4",
+    "0,5\n\n\n\n\n\nF5",
+    "0,6\n\n\n\n\n\nF6",
+    "0,7\n\n\n\n\n\nF7",
+    "0,8\n\n\n\n\n\nF8",
+    "0,9\n\n\n\n\n\nF9",
+    "0,10\n\n\n\n\n\nF10",
+    "0,11\n\n\n\n\n\nF11",
+    "0,12\n\n\n\n\n\nF12",
+    "0,13\n\n\n\n\n\nPrtSc",
+    "0,14\n\n\n\n\n\nInsert",
+    "0,15\n\n\n\n\n\nDelete"
   ],
   [
     {
       "y": 0.25
     },
-    "~\n`",
-    "!\n1",
-    "@\n2",
-    "#\n3",
-    "$\n4",
-    "%\n5",
-    "^\n6",
-    "&\n7",
-    "*\n8",
-    "(\n9",
-    ")\n0",
-    "_\n-",
-    "+\n=",
+    "1,0\n`\n\n\n\n\n~",
+    "1,1\n1\n\n\n\n\n!",
+    "1,2\n2\n\n\n\n\n@",
+    "1,3\n3\n\n\n\n\n#",
+    "1,4\n4\n\n\n\n\n$",
+    "1,5\n5\n\n\n\n\n%",
+    "1,6\n6\n\n\n\n\n^",
+    "1,7\n7\n\n\n\n\n&",
+    "1,8\n8\n\n\n\n\n*",
+    "1,9\n9\n\n\n\n\n(",
+    "1,10\n0\n\n\n\n\n)",
+    "1,11\n-\n\n\n\n\n_",
+    "1,12\n=\n\n\n\n\n+",
     {
       "w": 2
     },
-    "Backspace",
-    "Home"
+    "1,13\n\n\n\n\n\nBackspace",
+    "1,15\n\n\n\n\n\nHome"
   ],
   [
     {
       "w": 1.5
     },
-    "Tab",
-    "Q",
-    "W",
-    "E",
-    "R",
-    "T",
-    "Y",
-    "U",
-    "I",
-    "O",
-    "P",
-    "{\n[",
-    "}\n]",
+    "2,0\n\n\n\n\n\nTab",
+    "2,1\n\n\n\n\n\nQ",
+    "2,2\n\n\n\n\n\nW",
+    "2,3\n\n\n\n\n\nE",
+    "2,4\n\n\n\n\n\nR",
+    "2,5\n\n\n\n\n\nT",
+    "2,6\n\n\n\n\n\nY",
+    "2,7\n\n\n\n\n\nU",
+    "2,8\n\n\n\n\n\nI",
+    "2,9\n\n\n\n\n\nO",
+    "2,10\n\n\n\n\n\nP",
+    "2,11\n[\n\n\n\n\n{",
+    "1,12\n]\n\n\n\n\n}",
     {
       "w": 1.5
     },
-    "|\n\\",
-    "PgUp"
+    "2,13\n\\\n\n\n\n\n|",
+    "2,15\n\n\n\n\n\nPgUp"
   ],
   [
     {
       "w": 1.75
     },
-    "Caps Lock",
-    "A",
-    "S",
-    "D",
-    "F",
-    "G",
-    "H",
-    "J",
-    "K",
-    "L",
-    ":\n;",
-    "\"\n'",
+    "3,0\n\n\n\n\n\nCaps Lock",
+    "3,1\n\n\n\n\n\nA",
+    "3,2\n\n\n\n\n\nS",
+    "3,3\n\n\n\n\n\nD",
+    "3,4\n\n\n\n\n\nF",
+    "3,5\n\n\n\n\n\nG",
+    "3,6\n\n\n\n\n\nH",
+    "3,7\n\n\n\n\n\nJ",
+    "3,8\n\n\n\n\n\nK",
+    "3,9\n\n\n\n\n\nL",
+    "3,10\n;\n\n\n\n\n:",
+    "3,11\n'\n\n\n\n\n\"",
     {
       "w": 2.25
     },
-    "Enter",
-    "PgDn"
+    "3,13\n\n\n\n\n\nEnter",
+    "3,15\n\n\n\n\n\nPgDn"
   ],
   [
     {
       "w": 2.25
     },
-    "Shift",
-    "Z",
-    "X",
-    "C",
-    "V",
-    "B",
-    "N",
-    "M",
-    "<\n,",
-    ">\n.",
-    "?\n/",
+    "4,0\n\n\n\n\n\nShift",
+    "4,1\n\n\n\n\n\nZ",
+    "4,2\n\n\n\n\n\nX",
+    "4,3\n\n\n\n\n\nC",
+    "4,4\n\n\n\n\n\nV",
+    "4,5\n\n\n\n\n\nB",
+    "4,6\n\n\n\n\n\nN",
+    "4,7\n\n\n\n\n\nM",
+    "4,8\n,\n\n\n\n\n<",
+    "4,9\n.\n\n\n\n\n>",
+    "4,10\n/\n\n\n\n\n?",
     {
       "w": 1.75
     },
-    "Shift",
-    "↑",
-    "End"
+    "4,12\n\n\n\n\n\nShift",
+    "4,14\n\n\n\n\n\n↑",
+    "4,15\n\n\n\n\n\nEnd"
   ],
   [
     {
       "w": 1.25
     },
-    "Ctrl",
+    "5,0\n\n\n\n\n\nCtrl",
     {
       "w": 1.25
     },
-    "Win",
+    "5,1\n\n\n\n\n\nWin",
     {
       "w": 1.25
     },
-    "Alt",
+    "5,2\n\n\n\n\n\nAlt",
     {
-      "a": 7,
       "w": 6.25
     },
-    "",
-    {
-      "a": 4
-    },
-    "Alt",
-    "Fn",
-    "Ctrl",
-    "←",
-    "↓",
-    "→"
+    "5,6",
+    "5,10\n\n\n\n\n\nAlt",
+    "5,11\n\n\n\n\n\nFn",
+    "5,12\n\n\n\n\n\nCtrl",
+    "5,13\n\n\n\n\n\n←",
+    "5,14\n\n\n\n\n\n↓",
+    "5,15\n\n\n\n\n\n→"
   ]
 ]

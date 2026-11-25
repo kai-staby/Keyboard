@@ -673,7 +673,7 @@
         "uuid": "faca12f1-3a79-4e1a-9122-85ed23f68dd9"
       }
     ],
-    "used_designators": "#FLG1-12,#FLG102-103,#PWR1-128,#PWR131,#PWR234,#PWR275-281,BTN1-2,C1-68,D1-6,J1-4,LED1,MX1,R1-28,R35-36,R52,SW1-8,TP1-16,U1-16,U27,Y1-4",
+    "used_designators": "#FLG1-12,#FLG102-103,#PWR1-128,#PWR131,#PWR234,#PWR275-281,BTN1-2,C1-68,D1-96,J1-4,LED1,MX1-96,R1-28,R35-36,R52,S1-4,SW1-8,TP1-16,U1-16,U27,Y1-4",
     "variants": []
   },
   "sheets": [

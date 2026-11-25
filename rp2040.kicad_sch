@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "bb367a3a-5230-4e06-8f5d-385e79dfc6ef")
+	(uuid "17d29504-2641-4460-93f5-fdb91527ce73")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:TestPoint"
